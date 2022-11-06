@@ -14,6 +14,7 @@ events:
   - tty-model33
   - vt100
   - apple2
+  - braille
   - virtual-keyboard
   - predictive-text
 ---
