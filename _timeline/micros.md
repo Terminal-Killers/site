@@ -15,6 +15,7 @@ events:
   - bbc-micro
   - home-programming
   - c64-demoscene
+  - amstrad
   - raspberrypi
 ---
 
